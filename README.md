@@ -1,2 +1,0 @@
-# india
-New repository created. 
